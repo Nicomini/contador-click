@@ -1,0 +1,4 @@
+En la app de contador de click se aprendio:
+
+El uso de los props y su sintaxis de desestructuración.
+El uso de los Hooks set...
